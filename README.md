@@ -1,15 +1,19 @@
 # Random Color Generator 
 
-Generate random Color on command line
 
 ```bash
-TODO: When a user enters node index.js in the command line, a random color is generated.
+## User does not input any values for hue or luminosity
 ```
 
 
 ```bash
-TODO: In addition to node index.js, it should also be able to accept a request for hue and luminosity
+## User does input values for hue and luminosity
 ```
 
+
+
+```bash
+## Logs out weird Hashtag box with hex code of the generated color
+```
 
 
